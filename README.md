@@ -1,1 +1,0 @@
-# kerimsertturk.github.io
