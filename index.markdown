@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+<html>
+<style>
+.rss-subscribe{display: none}
+/*
+.contact-list .u-email{pointer-events: none; cursor: default;text-decoration: none; color: gray;}
+*/
+</style>
+</html>
