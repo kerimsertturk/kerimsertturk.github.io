@@ -6,13 +6,7 @@ layout: home
 ---
 
 <html>
-<head>
-<meta name="google-site-verification" content="zFCSIQ1wEvIcUdb0JvUEH1JkJqwxac7cF7zFkd8V6VQ" />
-</head>
 <style>
 .rss-subscribe{display: none}
-/*
-.contact-list .u-email{pointer-events: none; cursor: default;text-decoration: none; color: gray;}
-*/
 </style>
 </html>
