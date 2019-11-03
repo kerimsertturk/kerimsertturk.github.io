@@ -46,7 +46,7 @@ Wang et al. “DeepPicker: A Deep Learning Approach for Fully Automated Particle
 <em><sub>Wang et al. “DeepPicker: A Deep Learning Approach for Fully Automated Particle Picking in Cryo-EM.” Journal of Structural Biology 195, no. 3 (2016): 325–36 </sub></em>
 
 
-Fundamentally, this is an object detection and binary classification problem; both are very common in the field of machine learning and aren't too difficult. However, our data has very unique properties which create inherent challenges that complicate the project. In my next post I will talk about the challenges that we have identified so far.
+Fundamentally, this is an image processing, object detection and binary classification problem, all of which are very common in the field of machine learning. However, our data has very unique properties which create inherent challenges that complicate the project. In my next post I will talk about the challenges that we have identified so far.
 <html>
 <style>
 .micrograph-picked{display: block;  margin-left: auto; margin-right: auto; padding-bottom: 5px}
