@@ -21,7 +21,7 @@ If the client's machine isn't enough for training the machine learning model, we
 One of the factors that differentiate our project from common image processing and computer vision projects is the large amount of noise in our images. This is caused by the operation principles of electron microscopes. Below is a raw micrograph image taken at our client's lab before any processing. There are, in fact, about 150 protein particles in this micrograph but it's so noisy that it's impossible to see any of them (the large chunks seen at the bottom of the image are ice pieces and contamination).
 
 <html>
-<img src="https://github.com/kerimsertturk/kerimsertturk.github.io/blob/master/job019_micro0001.JPG?raw=true" class = "micrograph_noise" height = "400" width = "400"/>
+<img src="https://github.com/kerimsertturk/kerimsertturk.github.io/blob/master/job019_micro0001.jpg?raw=true" class = "micrograph_noise" height = "400" width = "400"/>
 <style>
 .micrograph_noise{display: block;  margin-left: auto; margin-right: auto; padding-bottom: 10px}
 </style>
