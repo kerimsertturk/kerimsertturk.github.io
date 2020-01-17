@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Psychology Series: Debunking Priming"
+title:  "Psychology Series: Is Priming in Trouble?"
 date:   2019-12-05 14:36:55 -0700
 categories: psyc
 ---
