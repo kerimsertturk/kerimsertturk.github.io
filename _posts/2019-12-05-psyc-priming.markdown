@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Psychology Series: Debunking Priming"
+title:  "Psychology Series: Is Priming in Trouble?"
 date:   2019-12-05 14:36:55 -0700
 categories: psyc
 ---
@@ -12,7 +12,7 @@ The discovery of priming allowed researchers to observe behavioral differences a
 Many studies over the past decades have utilized priming to conduct experiments. To name a few, a widely-cited article in 2006 conducted an experiment in which two groups were tasked to make sentences off of scrambled words. One group was given neutral, everyday sentences, whereas the other group was primed with words relating to money such as "high-paying salary". They were then asked to solve a puzzle with an option to ask for help at any point. The results showed that the primed group asked for help, on average, two and a half minutes later than the non-primed control group. The reserchers concluded that being exposed to stimulus about money made people more self-reliant and even made them put physical distance between themselves and a new acquaintance. [1]
 
 <html>
-<img src="https://github.com/kerimsertturk/kerimsertturk.github.io/blob/master/money.jpg?raw=true" class = "money" height = "400" width = "650"/>
+<img src="https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80" class = "money" height = "400" width = "650"/>
 <style>
 .money{display: block;  margin-left: auto; margin-right: auto; padding-bottom: 10px}
 </style>
